@@ -22,3 +22,5 @@ goploy-agent.toml
 goploy-agent.db
 goploy-agent.db-shm
 goploy-agent.db-wal
+logs/
+web/yarn.lock
